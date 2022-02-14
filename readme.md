@@ -1,1 +1,1 @@
-Atmospheric Random Number generator using api from [RANDOM.ORG](random.org)
+Atmospheric Random Number generator using api from [RANDOM.ORG](https://random.org)
